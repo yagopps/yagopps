@@ -25,6 +25,7 @@
 !microsoft-office&nbsp; -->
   
 ### Studying in this moment:
+![Linux]( https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
  <!-- !JavaScript&nbsp;
 !Node.JS&nbsp; -->
 
