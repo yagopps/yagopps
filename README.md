@@ -15,18 +15,18 @@
 
 ### Main skills:
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/github/downloads/yagopps/yagopps/total?logo=React&logoColor=%2361DAFB&style=flat-square)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 ### Tools:
-!Visual Studio Code&nbsp;
-<!-- !Git&nbsp; -->
+<!-- Visual Studio Code&nbsp;
+<!-- !Git&nbsp; --
 !GitHub&nbsp;
 !Windows&nbsp;
-!microsoft-office&nbsp;
+!microsoft-office&nbsp; -->
   
 ### Studying in this moment:
-!JavaScript&nbsp;
-!Node.JS&nbsp;
+ <!-- !JavaScript&nbsp;
+!Node.JS&nbsp; -->
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
